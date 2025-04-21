@@ -13,7 +13,7 @@ Este projeto é um script simples em Ruby que consulta o preço atual do Bitcoin
 
   ---
 
-##💻 Pré-requisitos
+## 💻 Pré-requisitos
 Certifique-se de que você tem o Ruby instalado. Para verificar:
 
 ```bash
@@ -25,7 +25,7 @@ Se não tiver, você pode instalar via rbenv, rvm ou pelo próprio gerenciador d
 sudo apt install ruby-full
 ```
   ---
-  ##📦 Instalação
+  ## 📦 Instalação
   Clone este repositório:
 
   ```bash
@@ -33,7 +33,7 @@ git clone https://github.com/matheusianidev/monitor-bitcoin.git
 cd monitor-bitcoin
 ```
   ---
-##🧠 Como usar
+## 🧠 Como usar
 Execute o script com:
 
 ```bash
@@ -47,7 +47,7 @@ O script irá:
 
   ---
 
-##🔧 Exemplo de saída
+## 🔧 Exemplo de saída
 
 ```yaml
 💸 Preço atual do Bitcoin:
@@ -57,7 +57,7 @@ BRL: R$ 456.214,89
 ```
   ---
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 Feito com 💻 e ☕ por Matheus Iani
 
   
